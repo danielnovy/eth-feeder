@@ -1,0 +1,18 @@
+{
+  "name": "ethusd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bvrio.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "eth-lightwallet": "^2.3.2",
+    "ethereumjs-tx": "^1.1.1",
+    "hooked-web3-provider": "^1.0.0",
+    "web3": "^0.15.3"
+  }
+}
